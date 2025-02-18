@@ -1,0 +1,83 @@
+[
+    {
+      "key": "1",
+      "abbreviation": "KBL",
+      "companyName": "TL Logistics",
+      "isBroker": true,
+      "account": 60000,
+      "clientNumber": "80606848"
+    },
+    {
+      "key": "2",
+      "abbreviation": "KBL",
+      "companyName": "TL Logistics",
+      "isBroker": true,
+      "account": 60000,
+      "clientNumber": "80606848"
+    },
+    {
+      "key": "3",
+      "abbreviation": "KBL",
+      "companyName": "TL Logistics",
+      "isBroker": false,
+      "account": 60000,
+      "clientNumber": "80606848"
+    },
+    {
+      "key": "4",
+      "abbreviation": "KBL",
+      "companyName": "TL Logistics",
+      "isBroker": true,
+      "account": 60000,
+      "clientNumber": "80606848"
+    },
+    {
+      "key": "5",
+      "abbreviation": "TEW",
+      "companyName": "TL Logistics",
+      "isBroker": true,
+      "account": 60000,
+      "clientNumber": "80606848"
+    },
+    {
+      "key": "6",
+      "abbreviation": "TEW",
+      "companyName": "TL Logistics",
+      "isBroker": false,
+      "account": 60000,
+      "clientNumber": "80606848"
+    },
+    {
+      "key": "7",
+      "abbreviation": "TEW",
+      "companyName": "TL Logistics",
+      "isBroker": true,
+      "account": 60000,
+      "clientNumber": "80606848"
+    },
+    {
+      "key": "8",
+      "abbreviation": "TEW",
+      "companyName": "TL Logistics",
+      "isBroker": false,
+      "account": 60000,
+      "clientNumber": "80606848"
+    },
+    {
+      "key": "9",
+      "abbreviation": "JKL",
+      "companyName": "TL Logistics",
+      "isBroker": true,
+      "account": 60000,
+      "clientNumber": "80606848"
+    },
+    {
+      "key": "10",
+      "abbreviation": "JKL",
+      "companyName": "TL Logistics",
+      "isBroker": true,
+      "account": 60000,
+      "clientNumber": "80606848"
+    }
+  ]
+  
